@@ -11,9 +11,9 @@ De 0 a 2 años de antigüedad no se asigna bono. de 3 a 5 años de antigüedad s
 
 
 ## Etapa 2: Especificaciones
-#entrada:
+1.entrada:
 proceso de los trabajdores - fin de los trabajadores
-#proceso:
+2.proceso:
 solicitar el banco que requiera
 solicitar la cantidad de empleados
 solicitar el nombre del empelado
@@ -28,7 +28,7 @@ se hace ciclo if de los puestos
 solicitar el salario semanal del empleado
 solicitar el tiempo que lleva trabajando en la empresa
 se hace sentencia if de acuerdo a los años que ha trabajado para sacar su isr
-#salida:
+3.salida:
 ~
 +-------------------------------------------------------------------------------+
 |la empresa es cdmx                                                             |
