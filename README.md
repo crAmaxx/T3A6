@@ -49,8 +49,8 @@ la nomina de todos los empleados es de 1000
 
 ## Etapa 3:
 
-![](https://github.com/ThisIsMaik/T3A6/blob/main/T3A6.png?raw=true)
+![](https://github.com/xXkiritsuguXx/T3A6/blob/main/T3A6.png)
 
 ## Etapa 4. Desarrollo de la solucion:
 
-https://github.com/ThisIsMaik/T3A6/blob/main/T3A6.zip
+https://github.com/xXkiritsuguXx/T3A6/blob/main/T3A6.png
