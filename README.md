@@ -37,11 +37,11 @@ se hace sentencia if de acuerdo a los años que ha trabajado para sacar su isr
 
 
 la empresa es cdmx                                                             
-el nombre del empleado es ioannes melgarejo torres                            
-el RFC del empleado es 1234567                                                
-el curp del empleado es meti040701hpllrna8                                     
-el correo electronico del empleado es ioannes107@gmail.com                     
-el salario neto del empleado ioannes ixca melgarejo torres es 100              
+el nombre del empleado es Cristhian Lopez Garcia                            
+el RFC del empleado es 9876543                                                
+el curp del empleado es LOGC041015HPLPRRA2                                     
+el correo electronico del empleado es criis.xda@gmail.com                     
+el salario neto del empleado Cristhian Lopez Garcia es 100              
 la nomina de todos los empleados es de 1000                                    
                                                                                
 
